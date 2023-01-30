@@ -45,14 +45,14 @@ export CHATID API_BOT TYPE_KERNEL
 
 # Kernel build config
 TYPE="MIUI"
-DEVICE="Redmi note 10 pro"
-KERNEL_NAME="AGHISNA"
-DEFCONFIG="sweet_defconfig"
-AnyKernel="https://github.com/RooGhz720/Anykernel3"
+DEVICE="HMNote10PRO"
+KERNEL_NAME="NOVIK"
+DEFCONFIG="sweet_user_defconfig"
+AnyKernel="https://github.com/Novik-XIV/Anykernel3"
 AnyKernelbranch="master"
-HOSST="MyLabs"
-USEER="RooGhz720"
-ID="AmiciaDeRune"
+HOSST="N-XIV"
+USEER="Novik-XIV"
+ID="AstroBoy"
 MESIN="Git Workflows"
 
 
